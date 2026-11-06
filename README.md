@@ -634,7 +634,7 @@ El título de Fastfetch obtiene automáticamente el nombre del equipo al ejecuta
 
 Antes de compartir capturas, revisa que no revelen nombres de usuario, identificadores de equipo, direcciones de red, rutas personales ni credenciales.
 
-La información actualmente disponible no permite verificar la fuente y las condiciones de redistribución de todas las imágenes de `assets/`. El nombre del archivo de la ilustración completa menciona a `inshyi`, pero no documenta la fuente original ni su licencia. Consulta [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md) para los créditos conocidos y los datos pendientes. Antes de redistribuir imágenes de terceros, confirma que tienes permiso o que una licencia aplicable lo permite; dar crédito por sí solo no concede ese permiso. La licencia de este proyecto no sustituye las licencias de las herramientas, esquemas, fuentes o recursos de terceros.
+La procedencia conocida de `L2.png` y de la ilustración de Lucy es el repositorio [`jazz1n/dotfiles`](https://github.com/jazz1n/dotfiles); sus rutas y los datos pendientes se indican en [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md). Ese repositorio no declara una licencia para las imágenes. El mantenedor de este proyecto confirma que tiene permiso para redistribuirlas; la atribución no sustituye los términos de ese permiso ni establece una licencia. La licencia de este proyecto tampoco se aplica a imágenes, herramientas, esquemas, fuentes u otros recursos de terceros.
 
 ## Recursos oficiales
 

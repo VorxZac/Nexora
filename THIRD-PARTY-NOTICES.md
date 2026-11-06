@@ -44,9 +44,9 @@ identifiable credits and available information are:
 | File | Known credit or provenance | Information still needed |
 | --- | --- | --- |
 | `assets/Cyberpunk.png` | Screenshot of this configuration. | The screenshot contains third-party artwork as the desktop background and in Fastfetch; see the entries for `L2.png` and the Lucy illustration. |
-| `assets/L2.png` | Image used as the Fastfetch Sixel logo. The repository maintainer confirms permission to redistribute it. | The creator, original source, license, and any required attribution have not been documented. |
-| `assets/lucy_cyberpunk_2077_edgerunners_by_inshyi_dfdrrd6.png` | The filename attributes the illustration to `inshyi`; the repository maintainer confirms permission to redistribute it. | The original source, license, and any required attribution have not been documented. |
+| `assets/L2.png` | Image used as the Fastfetch Sixel logo. Source: [`jazz1n/dotfiles` — `.config/fastfetch/pngs/L2.png`](https://github.com/jazz1n/dotfiles/blob/main/.config/fastfetch/pngs/L2.png). The repository maintainer confirms permission to redistribute it. | The creator and any required attribution have not been identified. The source repository does not declare a license for this image. |
+| `assets/lucy_cyberpunk_2077_edgerunners_by_inshyi_dfdrrd6.png` | The filename attributes the illustration to `inshyi`. Source: [`jazz1n/dotfiles` — `wallpapers/anime/lucy_cyberpunk_2077_edgerunners_by_inshyi_dfdrrd6.png`](https://github.com/jazz1n/dotfiles/blob/main/wallpapers/anime/lucy_cyberpunk_2077_edgerunners_by_inshyi_dfdrrd6.png). The repository maintainer confirms permission to redistribute it. | The original creator and any required attribution have not been verified. The source repository does not declare a license for this image. |
 
 This records the available credits and the maintainer's permission confirmation;
-it does not establish the images' license terms. Add the original sources and
-preserve any attribution required by the applicable permission or license.
+it does not establish the images' license terms or identify their original
+creators. Preserve any attribution required by the applicable permission.
