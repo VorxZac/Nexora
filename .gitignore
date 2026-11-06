@@ -1,0 +1,9 @@
+# Archivos temporales del sistema operativo.
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Preferencias locales del editor. Se conserva la configuración compartida que
+# permite validar el esquema Fastfetch sin confiar en todo un dominio externo.
+.vscode/*
+!.vscode/settings.json

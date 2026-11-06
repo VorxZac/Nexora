@@ -1,0 +1,5 @@
+{
+  "json.schemaDownload.trustedDomains": {
+    "https://raw.githubusercontent.com/fastfetch-cli/fastfetch/dev/doc/json_schema.json": true
+  }
+}

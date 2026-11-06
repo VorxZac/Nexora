@@ -1,0 +1,98 @@
+# peaclock
+# custom pastel configuration
+
+
+block 2 1
+# block-x 2
+# block-y 1
+
+padding 0 0
+# padding-x 0
+# padding-y 0
+
+margin 0 0
+# margin-x 0
+# margin-y 0
+
+ratio 2 1
+# ratio-x 2
+# ratio-y 1
+
+date-padding 1
+
+fill ''
+# fill-active ''
+# fill-inactive ''
+# fill-colon ''
+
+locale ''
+
+timezone ''
+
+date '%a %b %d'
+
+mode clock
+
+view digital
+
+toggle active-bg
+
+stopwatch start
+
+timer 10m:0s
+
+# Linux notification command; replace it or comment it out on other systems.
+timer-exec 'notify-send -a peaclock "timer complete"'
+
+rate-input 50
+
+rate-refresh 1000
+
+rate-status 5000
+
+
+set hour-24 on
+
+set seconds off
+
+set date on
+
+set auto-size on
+
+set auto-ratio on
+
+
+# Active numbers
+style active-fg #E6E8FD
+
+# Inactive numbers
+style inactive-fg #E6E8FD
+
+# Clock separator
+style colon-fg #F1EB00
+
+# Active background
+style active-bg reverse
+
+# Inactive background
+style inactive-bg clear
+
+# Separator background
+style colon-bg clear
+
+# Date
+style date #FDE0FE
+
+# General background
+style background clear
+
+# General text
+style text #E6E8FD
+
+# Prompt
+style prompt #E6E8FD
+
+# Status colors
+style success green
+
+style error red
